@@ -2,9 +2,6 @@
 > 인프라는 끝났다. 이제는 수용/거부만 하면 된다.
 > Mail Locker는 첫 번째 서랍이다.
 
----
-# Chat Graph & Persona Gap Tutor
-...
 # Chat Graph & Persona Gap Tutor
 
 **Origin:** 2026-05-13 | Author: cho-hyung-ki (Hyung-ki Cho)  
