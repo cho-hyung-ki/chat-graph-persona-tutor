@@ -1,6 +1,7 @@
 > 이 플러그인 시스템은 개인의 삶을 위한 완전 통합 OS의 시작이다.
 > 
 > This is not an App, This is a Plugin for your Life.
+> 
 > 인프라는 끝났다. 이제는 수용/거부만 하면 된다.
 > Mail Locker는 첫 번째 서랍이다.
 
